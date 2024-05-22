@@ -4,7 +4,7 @@ int main() {
     char str[100], *p;
     
     printf("Enter a string: ");
-    scanf("%[^\n]", str);
+    scanf("%[^\n]s", str);
 
     p = str;
     while (*p != '\0') {
@@ -19,13 +19,13 @@ int main() {
     return 0;
 }
 
-\*
-OUTPUT::
 
-Enter a string: Hello All Dear Students
-Hello
-All
-Dear
-Students
+// OUTPUT::
 
-*/
+// Enter a string: Hello All Dear Students
+// Hello
+// All
+// Dear
+// Students
+
+
