@@ -35,4 +35,10 @@
 29.Write 'C' Code to print half pyramid with given character as given below.
 30.Write 'C' Code to print Square Pattern as given below.
 31.Write 'C' Code to print Full Pyramid Pattern as shown below.
-
+32.Write 'C' Code to print Inverted half pyramid pattern as given below.
+33.Write 'C' Code to print Mirrored Right angle Triangle pattern as given below.
+34.Write 'C' Code to print Number Pyramid pattern as given below
+35.Write 'C' Code to print Palindrome Number Pyramid pattern as given below.
+36.Write 'C' Code to print Mirrored Arrow Shaped pattern as given below.
+37.Write 'C' Code to print Hollow square star pattern with Diagonal
+38.Write 'C' Code to print butterfly pattern as given below.
