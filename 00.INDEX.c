@@ -23,7 +23,7 @@
 19.Write 'C' Code that Converts the given Binary value to Octal Integer.
 20.Write 'C' Code that Converts the given Binary Code to Gray Code.
 21.Write 'C' Code that calculate the sum of the series 1, 1/2, 1/3, 1/4, 1/5, 1/6, ......, 1/n.
-22.Write a C program for given two numbers N and K, our task is to subtract a number K from N until number(N) is greater than zero, once the N becomes negative or zero then we start adding K until that number become the original number(N).
+22.Write 'C' program For given two numbers N and K, our task is to subtract a number K from N until number(N) is greater than zero, once the N becomes negative or zero then we start adding K until that number become the original number(N).
 23.Write 'C' Code that Converts the given Hexa Decimal Integer to Octal Integer.
 24.Write 'C' Code that find the given number is armstrong number or not.
 25.Write 'C' Code that Converts the given Gray Code to Binary Number.
@@ -42,3 +42,5 @@
 36.Write 'C' Code to print Mirrored Arrow Shaped pattern as given below.
 37.Write 'C' Code to print Hollow square star pattern with Diagonal
 38.Write 'C' Code to print butterfly pattern as given below.
+39.Write 'C' Code to print Right angle Triangle pattern as given below.
+40.Write 'C' Code to print Hallow Full Pyramid pattern as given below.
