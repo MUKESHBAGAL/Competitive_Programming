@@ -44,3 +44,6 @@
 38.Write 'C' Code to print butterfly pattern as given below.
 39.Write 'C' Code to print Right angle Triangle pattern as given below.
 40.Write 'C' Code to print Hallow Full Pyramid pattern as given below.
+41.Write 'C' Code that prints the Pattern
+42.Write 'C' Code to print Hallow Diamond pattern and Daigonals as given below.
+43.Write 'C' Code to Alphabet Characters 'A' pattern as given below.
