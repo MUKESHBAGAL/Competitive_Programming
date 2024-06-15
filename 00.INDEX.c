@@ -1,6 +1,5 @@
                                                                                    *****INDEX OF COMMPETITIVE PROGRAMMING*****
-                                                                                   
-                                                                                   
+                                                                                                                                                              
 		###BASIC PROGRAM### (01 To 27)                                                                           
 01.Write 'C' Code that accepts a string stras input and print each word of the string in new line.
 02.Write 'C' Code that accepts a string str as input and print each word of the string except the last character                                                                             
@@ -47,3 +46,5 @@
 41.Write 'C' Code that prints the Pattern
 42.Write 'C' Code to print Hallow Diamond pattern and Daigonals as given below.
 43.Write 'C' Code to Alphabet Characters 'A' pattern as given below.
+44.
+45.Write 'C' Code to Alphabet Characters 'C' pattern as given below.
