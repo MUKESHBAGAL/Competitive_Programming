@@ -29,7 +29,7 @@
 26.Write 'C' Code to print fibonacci series upto given N value.
 27.Write 'C' Code to print Number Series 0,1,3,6,10,15,... Ν.
 
-		###PATTERN PRINTING ###(28 To )
+		###PATTERN PRINTING ###(28 To 77)
 28.Write 'C' Code to print Square Pattern with given character.
 29.Write 'C' Code to print half pyramid with given character as given below.
 30.Write 'C' Code to print Square Pattern as given below.
@@ -46,5 +46,49 @@
 41.Write 'C' Code that prints the Pattern
 42.Write 'C' Code to print Hallow Diamond pattern and Daigonals as given below.
 43.Write 'C' Code to Alphabet Characters 'A' pattern as given below.
-44.
+44.Write 'C' Code to Alphabet Characters 'B' pattern as given below.
 45.Write 'C' Code to Alphabet Characters 'C' pattern as given below.
+46.Write 'C' Code to Alphabet Characters 'D' pattern as given below.
+47.Write 'C' Code to Alphabet Characters 'E' pattern as given below.
+48.Write 'C' Code to Alphabet Characters 'F' pattern as given below.
+49.Write 'C' Code to Alphabet Characters 'G' pattern as given below.
+50.Write 'C' Code to Alphabet Characters 'H' pattern as given below.
+51.Write 'C' Code to Alphabet Characters 'I' pattern as given below.
+52.Write 'C' Code to Alphabet Characters 'J' pattern as given below.
+53.Write 'C' Code to Alphabet Characters 'K' pattern as given below.
+54.Write 'C' Code to Alphabet Characters 'L' pattern as given below.
+55.Write 'C' Code to Alphabet Characters 'M' pattern as given below.
+56.Write 'C' Code to Alphabet Characters 'N' pattern as given below.
+57.Write 'C' Code to Alphabet Characters 'O' pattern as given below.
+58.Write 'C' Code to Alphabet Characters 'P' pattern as given below.
+59.Write 'C' Code to Alphabet Characters 'Q' pattern as given below.
+60.Write 'C' Code to Alphabet Characters 'R' pattern as given below.
+61.Write 'C' Code to Alphabet Characters 'S' pattern as given below.
+62.Write 'C' Code to Alphabet Characters 'T' pattern as given below.
+63.Write 'C' Code to Alphabet Characters 'U' pattern as given below.
+64.Write 'C' Code to Alphabet Characters 'V' pattern as given below.
+65.Write 'C' Code to Alphabet Characters 'W' pattern as given below.
+66.Write 'C' Code to Alphabet Characters 'X' pattern as given below.
+67.Write 'C' Code to Alphabet Characters 'Y' pattern as given below.
+68.Write 'C' Code to Alphabet Characters 'Z' pattern as given below.
+69.Write 'C' Code to Number Characters '0' pattern as given below.
+70.Write 'C' Code to Number Characters '1' pattern as given below.
+71.Write 'C' Code to Number Characters '3' pattern as given below.
+72.Write 'C' Code to Number Characters '4' pattern as given below.
+73.Write 'C' Code to Number Characters '5' pattern as given below.
+74.Write 'C' Code to Number Characters '6' pattern as given below.
+75.Write 'C' Code to Number Characters '7' pattern as given below.
+76.Write 'C' Code to Number Characters '8' pattern as given below.
+77.Write 'C' Code to Number Characters '9' pattern as given below.
+
+
+		### ARRAY ###(78 To )
+78.Write 'C' Code to count total number of duplicate elements in the array
+79.Write 'C' Code to print LTM and UTM
+80.Write 'C' Code to to copy the elements of one array into another array by swapping each 2 consecutive elements.
+81.Write 'C' Code to delete an element at a desired position from an array.
+82.Write 'C' Code to insert values in the array (unsorted list).
+83.Write 'C' Code to find maximum difference between the elements in the array.
+84.Write 'C' Code to Rotate Array right by giver Positions
+85.Write 'C' Code to Remove Duplicate Elements from an Array.
+
