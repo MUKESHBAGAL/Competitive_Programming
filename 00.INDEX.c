@@ -91,4 +91,6 @@
 83.Write 'C' Code to find maximum difference between the elements in the array.
 84.Write 'C' Code to Rotate Array right by giver Positions
 85.Write 'C' Code to Remove Duplicate Elements from an Array.
+86.Write 'C' Code that accepts 2 matrices, calculates multiplication of them and print the resultant matrix.
+87.Write 'C' Code to to find the majority element of an array.
 
