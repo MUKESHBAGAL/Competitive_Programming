@@ -82,15 +82,39 @@
 77.Write 'C' Code to Number Characters '9' pattern as given below.
 
 
-		### ARRAY ###(78 To )
-78.Write 'C' Code to count total number of duplicate elements in the array
-79.Write 'C' Code to print LTM and UTM
-80.Write 'C' Code to to copy the elements of one array into another array by swapping each 2 consecutive elements.
-81.Write 'C' Code to delete an element at a desired position from an array.
-82.Write 'C' Code to insert values in the array (unsorted list).
-83.Write 'C' Code to find maximum difference between the elements in the array.
-84.Write 'C' Code to Rotate Array right by giver Positions
-85.Write 'C' Code to Remove Duplicate Elements from an Array.
-86.Write 'C' Code that accepts 2 matrices, calculates multiplication of them and print the resultant matrix.
-87.Write 'C' Code to to find the majority element of an array.
+		### ARRAY PROBLEM ###(78 To 108 )
+78. Write 'C' Code to count total number of duplicate elements in the array
+79. Write 'C' Code to print LTM and UTM
+80. Write 'C' Code to to copy the elements of one array into another array by swapping each 2 consecutive elements.
+81. Write 'C' Code to delete an element at a desired position from an array.
+82. Write 'C' Code to insert values in the array (unsorted list).
+83. Write 'C' Code to find maximum difference between the elements in the array.
+84. Write 'C' Code to Rotate Array left by giver Positions.
+85. Write 'C' Code to Remove Duplicate Elements from an Array.
+86. Write 'C' Code t0 accepts 2 matrices, calculates multiplication of them and print the resultant matrix.
+87. Write 'C' Code to find the majority element of an array.
+88. Write 'C' Code to Finding Maximum and Minimum in an Array
+89. Write 'C' Code to Sum of Array Elements
+90. Write 'C' Code to Reverse an Array
+91. Write 'C' Code to Rotate Array right by giver Positions.
+92. Write 'C' Code to Finding Missing Number in Array:
+93. Write 'C' Code to Merge Two Sorted Arrays:
+94. Write 'C' Code to Remove Duplicates from Unsorted Array and After  Sort array.
+95. Write 'C' Code to Count Pairs with Given Sum.
+96. Write 'C' Code to Leaders in an Array
+97. Write 'C' Code to Kth Largest Element in Array.
+98. Write 'C' Code to Kth Smallest Element in Array
+99. Write 'C' Code to Merge Two Array And find Median of Merge  Arrays
+100.Write 'C' Code to Subarray with Given Sum.
+101.Write 'C' Code to Maximum Subarray Sum.
+102.Write 'C' Code to Move Zeros to End.
+103.Write 'C' Code to Sort Array by Parity
+104.Write 'C' Code to Find Peak Element.
+105.Write 'C' Code to Rain Water Trapping.
+106.Write 'C' Code to Minimum Size Subarray Sum.
+107.Write 'C' Code to Spiral Matrix Traversal .
+108.Write 'C' Code to Search in Rotated Sorted Array.
 
+
+
+		### STRING PROBLEM ###(78 To 108 )
