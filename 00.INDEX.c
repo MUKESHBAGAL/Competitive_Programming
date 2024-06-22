@@ -89,16 +89,16 @@
 81. Write 'C' Code to delete an element at a desired position from an array.
 82. Write 'C' Code to insert values in the array (unsorted list).
 83. Write 'C' Code to find maximum difference between the elements in the array.
-84. Write 'C' Code to Rotate Array left by giver Positions.
+84. Write 'C' Code to Rotate Array right by giver Positions.
 85. Write 'C' Code to Remove Duplicate Elements from an Array.
 86. Write 'C' Code t0 accepts 2 matrices, calculates multiplication of them and print the resultant matrix.
 87. Write 'C' Code to find the majority element of an array.
 88. Write 'C' Code to Finding Maximum and Minimum in an Array
-89. Write 'C' Code to Sum of Array Elements
+89. Write 'C' Code to Finding Second  Maximum and Second Minimum Element in an Array
 90. Write 'C' Code to Reverse an Array
-91. Write 'C' Code to Rotate Array right by giver Positions.
-92. Write 'C' Code to Finding Missing Number in Array:
-93. Write 'C' Code to Merge Two Sorted Arrays:
+91. Write 'C' Code to Rotate Array left by giver Positions.
+92. Write 'C' Code to Finding Missing Number in Array.
+93. Write 'C' Code to Merge Two Sorted Arrays.
 94. Write 'C' Code to Remove Duplicates from Unsorted Array and After  Sort array.
 95. Write 'C' Code to Count Pairs with Given Sum.
 96. Write 'C' Code to Leaders in an Array
@@ -117,4 +117,18 @@
 
 
 
-		### STRING PROBLEM ###(78 To 108 )
+		### STRING PROBLEM ###(109 To  )
+119.Write 'C' Code to check given string  is Pangram or not 
+110.Write 'C' Code to that will print all non-empty substrings of that given string.
+111.Write 'C' Code to reverse the order of the words in the given string.
+112.Write 'C' Code to 
+113.Write 'C' Code to 
+114.Write 'C' Code to 
+115.Write 'C' Code to 
+116.Write 'C' Code to 
+117.Write 'C' Code to 
+118.Write 'C' Code to 
+119.Write 'C' Code to 
+120.Write 'C' Code to 
+121.Write 'C' Code to 
+
