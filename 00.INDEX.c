@@ -99,7 +99,7 @@
 91. Write 'C' Code to Rotate Array left by giver Positions.
 92. Write 'C' Code to Finding Missing Number in Array.
 93. Write 'C' Code to Merge Two Sorted Arrays.
-94. Write 'C' Code to Remove Duplicates from Unsorted Array and After  Sort array.
+94. Write 'C' Code to Remove Duplicates from  Array and After check array is Sorted or not ?
 95. Write 'C' Code to Count Pairs with Given Sum.
 96. Write 'C' Code to Leaders in an Array
 97. Write 'C' Code to Kth Largest Element in Array.
