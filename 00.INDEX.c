@@ -71,8 +71,8 @@
 66.Write 'C' Code to Alphabet Characters 'X' pattern as given below.
 67.Write 'C' Code to Alphabet Characters 'Y' pattern as given below.
 68.Write 'C' Code to Alphabet Characters 'Z' pattern as given below.
-69.Write 'C' Code to Number Characters '0' pattern as given below.
-70.Write 'C' Code to Number Characters '1' pattern as given below.
+69.Write 'C' Code to Number Characters '1' pattern as given below.
+70.Write 'C' Code to Number Characters '2' pattern as given below.
 71.Write 'C' Code to Number Characters '3' pattern as given below.
 72.Write 'C' Code to Number Characters '4' pattern as given below.
 73.Write 'C' Code to Number Characters '5' pattern as given below.
