@@ -99,12 +99,12 @@
 91. Write 'C' Code to Rotate Array left by giver Positions.
 92. Write 'C' Code to Finding Missing Number in Array.
 93. Write 'C' Code to Merge Two Sorted Arrays.
-94. Write 'C' Code to Remove Duplicates from  Array and After check array is Sorted or not ?
+94. Write 'C' Code to Remove Duplicates from  Array and After check array is Sorted or not in Ascending order?
 95. Write 'C' Code to Count Pairs with Given Sum.
-96. Write 'C' Code to Leaders in an Array
+96. Write 'C' Code to Leaders in an Array.
 97. Write 'C' Code to Kth Largest Element in Array.
 98. Write 'C' Code to Kth Smallest Element in Array
-99. Write 'C' Code to Merge Two Array And find Median of Merge  Arrays
+99. Write 'C' Code to find Median of Two Array
 100.Write 'C' Code to Subarray with Given Sum.
 101.Write 'C' Code to Maximum Subarray Sum.
 102.Write 'C' Code to Move Zeros to End.
