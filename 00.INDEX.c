@@ -118,7 +118,7 @@
 
 
 		### STRING PROBLEM ###(109 To 119 )
-119.Write 'C' Code to check given string  is Pangram or not 
+109.Write 'C' Code to check given string  is Pangram or not 
 110.Write 'C' Code to that will print all non-empty substrings of that given string.
 111.Write 'C' Code to reverse the order of the words in the given string.
 112.Write 'C' Code to 
