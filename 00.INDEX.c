@@ -121,8 +121,8 @@
 109.Write 'C' Code to check given string  is Pangram or not 
 110.Write 'C' Code to that will print all non-empty substrings of that given string.
 111.Write 'C' Code to reverse the order of the words in the given string.
-112.Write 'C' Code to 
-113.Write 'C' Code to 
+112.Write 'C' Code to given String in Roman form ,the Task is to convert this given roman string  into an integer
+113.Write 'C' Code to Given a list of word followed by two words ,the task to find the minimum distance between the given two words in the list of word
 114.Write 'C' Code to 
 115.Write 'C' Code to 
 116.Write 'C' Code to 
@@ -133,3 +133,34 @@
 
 
 		### Recurssion PROBLEM ###(120 To  )
+120.Write 'C' Code for sum of digit 
+121.Write 'C' Code for Nth Power of Number 
+122.Write 'C' Code for Acending order up to Number 
+123.Write 'C' Code for Decending order up to Number  
+124.Write 'C' Code for Factorial Number 
+125.Write 'C' Code for Decimal To Binary Conversion code  
+126.Write 'C' Code for Decimal To Octal Conversion code   
+127.Write 'C' Code for Decimal To Hexadecimal Conversion code   
+128.Write 'C' Code for Count No. of digit in given number 
+129.Write 'C' Code to 
+130.Write 'C' Code to 
+131.Write 'C' Code to 
+132.Write 'C' Code to 
+133.Write 'C' Code to 
+134.Write 'C' Code to 
+135.Write 'C' Code to 
+136.Write 'C' Code to 
+137.Write 'C' Code to 
+138.Write 'C' Code to 
+139.Write 'C' Code to 
+140.Write 'C' Code to 
+141.Write 'C' Code to 
+142.Write 'C' Code to 
+143.Write 'C' Code to 
+144.Write 'C' Code to 
+145.Write 'C' Code to 
+146.Write 'C' Code to 
+147.Write 'C' Code to 
+148.Write 'C' Code to 
+149.Write 'C' Code to 
+150.Write 'C' Code to 
