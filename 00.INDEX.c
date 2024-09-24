@@ -142,7 +142,7 @@
 126.Write 'C' Code for Decimal To Octal Conversion code   
 127.Write 'C' Code for Decimal To Hexadecimal Conversion code   
 128.Write 'C' Code for Count No. of digit in given number 
-129.Write 'C' Code to 
+129.Write 'C' Code for Sum of Natural Numbers (Calculate the sum of the first n natural numbers).
 130.Write 'C' Code to 
 131.Write 'C' Code to 
 132.Write 'C' Code to 
