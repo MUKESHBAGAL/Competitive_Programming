@@ -143,7 +143,7 @@
 127.Write 'C' Code for Decimal To Hexadecimal Conversion code   
 128.Write 'C' Code for Count No. of digit in given number 
 129.Write 'C' Code for Sum of Natural Numbers (Calculate the sum of the first n natural numbers).
-130.Write 'C' Code to 
+130.Write 'C' Code for Reverse a String: Reverse a string using recursion.
 131.Write 'C' Code to 
 132.Write 'C' Code to 
 133.Write 'C' Code to 
