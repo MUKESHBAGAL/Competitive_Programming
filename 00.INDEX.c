@@ -144,7 +144,7 @@
 128.Write 'C' Code for Count No. of digit in given number 
 129.Write 'C' Code for Sum of Natural Numbers (Calculate the sum of the first n natural numbers).
 130.Write 'C' Code for Reverse a String: Reverse a string using recursion.
-131.Write 'C' Code to 
+131.Write 'C' Code to find Sum of Array (Compute the sum of elements in an array) using Recurssion . 
 132.Write 'C' Code to 
 133.Write 'C' Code to 
 134.Write 'C' Code to 
